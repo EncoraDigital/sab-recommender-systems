@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+venv
+dataset/*
+model/*
+!dataset/.gitkeep
+!model/.gitkeep  
